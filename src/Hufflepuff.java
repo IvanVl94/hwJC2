@@ -1,8 +1,4 @@
 public class Hufflepuff extends Hogwarts {
-    private String name;
-    private String surname;
-    private int power;
-    private int distance;
     private int diligence;
     private int loyalty;
     private int honesty;

@@ -1,8 +1,4 @@
 public class Ravenclaw extends Hogwarts {
-    private String name;
-    private String surname;
-    private int power;
-    private int distance;
     private int intelligence;
     private int wisdom;
     private int wit;
